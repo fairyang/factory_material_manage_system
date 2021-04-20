@@ -1,0 +1,53 @@
+USE [bishe]
+GO
+/****** Object:  StoredProcedure [dbo].[bishe3]    Script Date: 04/28/2019 17:23:42 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ALTER  procedure [dbo].[bishe3] (@TopItem varchar(50)) as
+ set nocount on
+ declare @图号 varchar(30),@物料编码 varchar(30),@父项图号 varchar(30),@物料名称 varchar(30),@数量 int,@层级 int,@备注 varchar(30),@biaozhi int
+  create table #stack (图号 varchar(30),物料编码 varchar(30),父项图号 varchar(30),物料名称 varchar(30),数量 int,层级 int,备注 varchar(30))
+  insert into #stack select 图号, 物料编码, 父项图号,物料名称,数量,层级,备注 from EBOM where 父项图号=@TopItem
+  select @层级 =1,@biaozhi=0
+ while @层级>0
+ 
+ begin
+ 
+  if exists(select*from #stack where 物料编码 like 'W%' )
+  begin
+  select @父项图号=父项图号,@物料编码 =物料编码 from #stack where 层级=@层级 and 物料编码 like 'W%'
+  insert into MBOM select 图号, 物料编码, 父项图号,物料名称,数量,层级,备注 from #stack where 父项图号=@父项图号 
+  delete  from #stack where 父项图号=@父项图号  
+  end
+  
+  if exists(select*from #stack where 物料编码 like 'X%' )
+  begin
+  select @图号=图号,@物料编码 =物料编码 from #stack where 层级=@层级 and 物料编码 like 'X%'
+  insert into MBOM select 图号, 物料编码, 父项图号,物料名称,数量,@层级-1,备注 from EBOM where 父项图号=@图号 and 层级=@层级+1
+  delete  from #stack where 图号=@图号
+  select @biaozhi=1
+  end
+  
+  if exists(select*from #stack where 物料编码 like 'G%' )
+  begin
+  select @图号=图号,@物料编码 =物料编码 from #stack where 层级=@层级 and 物料编码 like 'G%'
+  insert into MBOM select 图号, 物料编码, 父项图号,物料名称,数量,@层级,备注 from #stack where 图号=@图号 and 层级=@层级
+  insert into MBOM select 图号, 物料编码, 父项图号,物料名称,数量,@层级,备注 from EBOM where 父项图号=@图号 and 层级=@层级+1
+  delete from #stack where 图号=@图号 and @层级=层级
+  select @biaozhi=1
+  end
+  
+  if @biaozhi>0
+  select @层级=@层级+1
+  else
+  select @层级=@层级-1
+  
+  
+  
+  
+  
+  
+  end
+ 

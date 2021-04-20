@@ -1,0 +1,355 @@
+c:\users\administrator\documents\visual studio 2010\Projects\xiangmu\xiangmu\bin\Debug\xiangmu.exe
+c:\users\administrator\documents\visual studio 2010\Projects\xiangmu\xiangmu\bin\Debug\xiangmu.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\xiangmu\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\xiangmu\xiangmu\obj\x86\Debug\xiangmu.exe
+c:\users\administrator\documents\visual studio 2010\Projects\xiangmu\xiangmu\obj\x86\Debug\xiangmu.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+F:\c#\xiangmu\xiangmu\obj\x86\Debug\xiangmu.exe
+F:\c#\xiangmu\xiangmu\obj\x86\Debug\xiangmu.pdb
+F:\c#\xiangmu\xiangmu\bin\Debug\xiangmu.exe
+F:\c#\xiangmu\xiangmu\bin\Debug\xiangmu.pdb
+F:\c#\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+F:\c#\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+F:\c#\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+F:\c#\xiangmu\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+F:\c#\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.exe
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.pdb
+F:\xiangmu\xiangmu\bin\Debug\xiangmu.exe
+F:\xiangmu\xiangmu\bin\Debug\xiangmu.pdb
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+F:\xiangmu\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\ShoUyao\Desktop\xiangmu\xiangmu\bin\Debug\IrisSkin4.dll
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\ShoUyao\Desktop\项目\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\ShoUyao\Desktop\项目\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\ShoUyao\Desktop\项目\xiangmu\bin\Debug\IrisSkin4.dll
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\ShoUyao\Desktop\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\ShoUyao\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+G:\春风十里\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.exe
+G:\春风十里\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.pdb
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+G:\春风十里\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+H:\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+H:\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.Accessibility.dll
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.AccountProtectLib.dll
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.ActiveDs.dll
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.QuartzTypeLib.dll
+C:\Users\DELL\Desktop\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.Accessibility.dll
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.AccountProtectLib.dll
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.ActiveDs.dll
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\Interop.QuartzTypeLib.dll
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\DELL\Desktop\本科毕业设计\仓库管理系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.Accessibility.dll
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.AccountProtectLib.dll
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.ActiveDs.dll
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.QuartzTypeLib.dll
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.ResolveComReference.cache
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\DELL\Desktop\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.Cache
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\bin\Debug\xiangmu.exe
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\bin\Debug\xiangmu.pdb
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojAssemblyReference.cache
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.Accessibility.dll
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.AccountProtectLib.dll
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.ActiveDs.dll
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.QuartzTypeLib.dll
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.ResolveComReference.cache
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.cache
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.CoreCompileInputs.cache
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.CopyComplete
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+C:\Users\fair yang\Desktop\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\bin\Debug\xiangmu.exe
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\bin\Debug\xiangmu.pdb
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojAssemblyReference.cache
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.Accessibility.dll
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.AccountProtectLib.dll
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.ActiveDs.dll
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.QuartzTypeLib.dll
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.ResolveComReference.cache
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.cache
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.CoreCompileInputs.cache
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.CopyComplete
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\bin\Debug\xiangmu.exe.config
+F:\课件\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\bin\Debug\MySql.Data.dll
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csprojAssemblyReference.cache
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.Accessibility.dll
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.ActiveDs.dll
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\Interop.QuartzTypeLib.dll
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.ResolveComReference.cache
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form1.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form10.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form11.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form12.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form13.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form14.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form15.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form16.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form17.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form2.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form3.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form4.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form5.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form6.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form7.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form8.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Form9.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.Properties.Resources.resources
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.GenerateResource.cache
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.csproj.CoreCompileInputs.cache
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.exe
+F:\课件\往年\管理信息系统\本科毕业设计系统\本科毕业设计\管理信息系统\项目\xiangmu\obj\x86\Debug\xiangmu.pdb
